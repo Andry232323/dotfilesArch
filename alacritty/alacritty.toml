@@ -1,0 +1,12 @@
+# Background
+import = ["~/.config/alacritty/themes/github_light.toml"]
+
+[window]
+dynamic_padding = true
+
+[font]
+normal = { family = "consolas", style = "Regular" }
+bold = { family = "consolas", style = "Bold" }
+italic = { family = "consolas", style = "Italic" }
+bold_italic = { family = "consolas", style = "Bold Italic" }
+
